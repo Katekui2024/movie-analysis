@@ -32,11 +32,11 @@ The MovieDB is a database.This is the ERD:
 
 ### Results
 - This shows That The most rated genres are of type R rating then PG-13
-![alt text](image-3.png)
+![alt text](image-1.png)
 - This shows the top 10 most rated movie genres
-![alt text](image-4.png)
+![alt text](image-2.png)
 - This shows the most popular movie genres
-![alt text](image-5.png)
+![alt text](image-3.png)
 
 ### Conclusion
 
